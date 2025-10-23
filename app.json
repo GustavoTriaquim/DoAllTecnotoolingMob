@@ -51,6 +51,12 @@
         "projectId": "d2b2ab45-b95a-4874-ad6c-f7dc79daaf15"
       }
     },
-    "owner": "gustavotriaquim"
+    "owner": "gustavotriaquim",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/d2b2ab45-b95a-4874-ad6c-f7dc79daaf15"
+    }
   }
 }
